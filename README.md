@@ -1,7 +1,15 @@
 ArsMagica2
 ==========
 
-Ars Magica 2 Bug Tracker
+Ars Magica 2 Repository
+
+### Is it Playable
+for the most part yes, there's not many game-breaking bugs
+
+### IRC
+ #ArsMagica on Espernet
+
+Webchat link: http://webchat.esper.net/?nick=&channels=ArsMagica
 
 ### Useful Links
 * [Homepage](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292222)
